@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://luismino.es/devchallenge/404-page-challenge/404.PNG)
+![screenshot](https://luismino.es/devchallenge/my-team-page/Team-page.PNG)
 
 In this project, you can see a team page template developed without any framework.
 
